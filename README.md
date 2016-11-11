@@ -1,1 +1,2 @@
 # MetawearSimultanLogging
+# MetawearSimultanLoggingGpio
